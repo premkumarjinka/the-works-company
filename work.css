@@ -1,0 +1,125 @@
+.the-work-project {
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-container {
+    flex-flow: wrap;
+    background-color: #fa7878;
+    min-height: 1000px;
+    max-width: 1000px;
+}
+
+.profile-container {
+    display: flex;
+    align-self: center;
+    padding-top: 15px;
+    margin-left: 25px;
+    margin-left: 35px;
+}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 18px;
+    margin-right: 55px;
+}
+
+.persion-circle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: solid 4px #211515;
+    height: 95px;
+    width: 95px;
+    margin-bottom: 10px;
+    border-radius: 48px;
+}
+
+.profile-icon {
+    align-self: center;
+    font-size: 38px;
+    color: black;
+}
+
+.name {
+    font-family: "roboto";
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.direct-name-card {
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+
+.caroline-heading {
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.directory-name {
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.stit-lile {
+    border-left: 5px solid black;
+    height: 180px;
+    margin-left: 35px;
+}
+
+.address-card {
+    margin-left: 25px;
+}
+
+.address-description {
+    font-family: "roboto";
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.line {
+    border-bottom: 5px solid black;
+    width: 650px;
+    margin-left: 110px;
+    padding-left: 50px;
+}
+
+.year-num {
+    font-family: "roboto";
+    font-size: 16px;
+}
+
+.works-headings {
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.work-details {
+    font-family: "roboto";
+    font-size: 13px;
+}
+
+.skill-name {
+    font-family: "roboto";
+    font-size: 16px;
+}
+
+.round-babul {
+    height: 10px;
+    width: 10px;
+    background-color: #0e0a33;
+    border-radius: 10px;
+}
+
+.stit-lile-two {
+    border-left: 5px solid black;
+    height: 230px;
+    margin-left: 5px;
+
+}
